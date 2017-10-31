@@ -1,4 +1,4 @@
-Cibus - Software de apoio à nutrição
+Gerenciador de Tarefas
 ============================
 
-Sistema desenvolvido em Yii2 (PHP) e Phonegap/Cordova.
+Teste de programação, com o objetivo de construir um dashboard de tasks. Desenvolvido em Yii2 (framework PHP)
